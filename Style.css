@@ -1,5 +1,5 @@
 .wrapper{
-    background-image: url('assets/img/bg.jpg');
+    background-image: url('assets/img/Santech.jpg');
     background-position: 0 0;
     background-repeat: no-repeat;
     height: 100vh;
@@ -18,14 +18,14 @@
     font-style: italic;
     font-size: 5rem;
     line-height: 45px;
-    color: #ffffff;
+    color: #db3a98;
     text-align: center;
     margin-bottom: .5rem;
 }
 
 .container p {
-    font-size: 2rem;
-    color: #ffffff;
+    font-size: 3rem;
+    color: #0f0e0f;
     text-align: center;
     line-height: 24px;
     width: 80%;
@@ -43,10 +43,10 @@
 }
 
 .learn-more:hover{
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 0 0 rgba(15, 130, 238, 0.5);
     cursor: pointer;
     background-color: rgba(0, 0, 0, 0.5);
-    color: #ffffff;
+    color: #9adf2b;
 }
 
 .about-section{
